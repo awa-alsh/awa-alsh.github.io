@@ -1,29 +1,37 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body {
-    color: silver;
-    font-family: fantasy;
-    
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(197, 100%, 92%);
+    color: #333;
+    padding: 20px;
 }
 
+h1{
+    font-size: 35px;
+    color: #2c3e50;
+    text-align: center;
+    border-bottom: 2px solid #2c3e50;
+    margin-bottom: 20px
+}   
 
-
-
-h1 {
-    color: red;
-
-}
-
-p{
-    font-size: 30px;
-    color:purple;
-    border: 5px solid silver;
-}
 
 h2 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+font-size: 23px; 
+color: #34495e; 
+border-bottom: 1px solid #34495e;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+
+p{
+font-size: 18px;
+color: #555;
+margin-bottom: 15px;
 }
