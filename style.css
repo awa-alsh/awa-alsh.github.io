@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: silver;
+    font-family: fantasy;
+    
+}
+
+
+
+
+h1 {
+    color: red;
+
+}
+
+p{
+    font-size: 30px;
+    color:purple;
+    border: 5px solid silver;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
